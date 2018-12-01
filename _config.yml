@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fornous.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fornous
 github_username:  fornous
-linkedin_username: jiri-fornous-97612584
+linkedin_username: jiri-fornous
 rss: rss
 
 # Build settings
@@ -44,4 +44,6 @@ plugins:
 
 disqus:
   shortname: fornous-github-io
+
+google_analytics: UA-130238896-1
 
